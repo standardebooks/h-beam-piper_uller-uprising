@@ -11,3 +11,8 @@ header{
 [epub|type~="se:temperature"]{
 	font-variant: all-small-caps;
 }
+
+[epub|type~="division"] hgroup,
+[epub|type~="division"] header {
+  break-after: avoid;
+}
