@@ -7,6 +7,7 @@ header{
 	text-align: center;
 }
 
+[epub|type~="se:era"],
 [epub|type~="se:temperature"]{
 	font-variant: all-small-caps;
 }
