@@ -8,8 +8,8 @@
 		}
 
 		path,
-    polygon{
-      fill: #000;
+		polygon{
+			fill: #000;
 			fill-rule: nonzero;
 		}
 	</style>

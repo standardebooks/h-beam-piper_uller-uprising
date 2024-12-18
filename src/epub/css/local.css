@@ -13,6 +13,6 @@ header{
 }
 
 [epub|type~="division"] hgroup,
-[epub|type~="division"] header {
-  break-after: avoid;
+[epub|type~="division"] header{
+	break-after: avoid;
 }

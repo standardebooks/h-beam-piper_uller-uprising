@@ -36,8 +36,8 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A shrewd general must quell an alien rebellion on a remote colonized planet, 450 years in the future.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p>General Carlos von Schlichten is overseeing operations of the Chartered Uller Company on the colony world of Uller when a violent riot breaks out between native Ullerans and colonist Terrans. As the conflict expands to a full rebellion he must restore order to the planet while managing the complex politcal dynamics of the different alien factions.</p>
-			<p>Published in 1952, <i>Uller Uprising</i> is the first novel by <a href="https://standardebooks.org/ebooks/j-j-connington">H. Beam Piper</a> that establishes his Terro-Human Future History world.</p>
+			&lt;p&gt;General Carlos von Schlichten is overseeing operations of the Chartered Uller Company on the colony world of Uller when a violent riot breaks out between native Ullerans and colonist Terrans. As the conflict expands to a full rebellion he must restore order to the planet while managing the complex politcal dynamics of the different alien factions.&lt;/p&gt;
+			&lt;p&gt;Published in 1952, &lt;i&gt;Uller Uprising&lt;/i&gt; is the first novel by &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;H. Beam Piper&lt;/a&gt; that establishes his Terro-Human Future History world.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19474</dc:source>
