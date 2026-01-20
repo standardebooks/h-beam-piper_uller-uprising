@@ -45,7 +45,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/19474</dc:source>
 		<dc:source>https://archive.org/details/ulleruprising0000pipe</dc:source>
-		<meta property="se:word-count">53738</meta>
+		<meta property="se:word-count">52396</meta>
 		<meta property="se:reading-ease.flesch">63.29</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/h-beam-piper_uller-uprising</meta>
 		<dc:creator id="author">H. Beam Piper</dc:creator>
