@@ -59,6 +59,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="author-of-introduction">John D. Clark</dc:contributor>
 		<meta property="file-as" refines="#author-of-introduction">Clark, John D.</meta>
+		<link href="https://en.wikipedia.org/wiki/John_Drury_Clark" refines="#author-of-introduction" rel="schema:sameAs"/>
 		<meta property="role" refines="#author-of-introduction" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Jules Schmalzigaug</dc:contributor>
 		<meta property="file-as" refines="#artist">Schmalzigaug, Jules</meta>
